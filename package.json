@@ -9,9 +9,9 @@
     "lint": "next lint",
     "check": "biome check .",
     "format:check": "biome format .",
-    "validate": "npm run check && npm run format:check",
+    "validate": "pnpm run check && pnpm run format:check",
     "lint-staged": "lint-staged",
-    "prepare": "husky"    
+    "prepare": "husky"
   },
   "dependencies": {
     "next": "15.3.3",
@@ -19,6 +19,7 @@
     "react-dom": "^19.0.0"
   },
   "devDependencies": {
+    "@biomejs/biome": "1.9.4",
     "@commitlint/cli": "^19.8.1",
     "@commitlint/config-conventional": "^19.8.1",
     "@tailwindcss/postcss": "^4",
