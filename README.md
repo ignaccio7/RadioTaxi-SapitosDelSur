@@ -1,3 +1,5 @@
+[![.github/workflows/pipeline.yml](https://github.com/ignaccio7/RadioTaxi-SapitosDelSur/actions/workflows/pipeline.yml/badge.svg)](https://github.com/ignaccio7/RadioTaxi-SapitosDelSur/actions/workflows/pipeline.yml)
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
