@@ -1,0 +1,2 @@
+echo "🚀 Starting pre-commit checks..."
+pnpm run lint-staged
